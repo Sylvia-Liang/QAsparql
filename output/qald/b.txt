@@ -1,0 +1,11 @@
+?u_0 wineProduced #ent
+?u_0 wineProduced Sparkling_wine
+?u_1 wineProduced ?u_0
+?u_0 wineProduced Sparkling_wine
+?u_0 wineProduced ?u_1
+?u_0 wineProduced Sparkling_wine .?u_0 wineProduced ?u_1
+?u_1 wineProduced Sparkling_wine
+?u_1 wineProduced ?u_0
+?u_1 wineProduced Sparkling_wine .?u_1 wineProduced ?u_0
+?u_1 wineProduced Sparkling_wine
+?u_0 wineProduced ?u_1

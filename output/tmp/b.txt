@@ -1,0 +1,31 @@
+?u_0 veneratedIn #ent
+?u_0 veneratedIn #ent
+?u_1 veneratedIn ?u_0
+?u_0 veneratedIn Judaism .?u_0 veneratedIn Islam
+?u_0 veneratedIn Judaism
+?u_0 veneratedIn Islam
+?u_0 veneratedIn ?u_1
+?u_0 veneratedIn Judaism .?u_0 veneratedIn Islam
+?u_0 veneratedIn Judaism .?u_0 veneratedIn ?u_1
+?u_0 veneratedIn Islam .?u_0 veneratedIn ?u_1
+?u_0 veneratedIn Judaism .?u_0 veneratedIn Islam .?u_0 veneratedIn ?u_1
+?u_1 veneratedIn Judaism
+?u_0 veneratedIn Islam
+?u_1 veneratedIn ?u_0
+?u_1 veneratedIn Judaism .?u_0 veneratedIn Islam
+?u_1 veneratedIn Judaism .?u_1 veneratedIn ?u_0
+?u_0 veneratedIn Judaism
+?u_1 veneratedIn Islam
+?u_1 veneratedIn ?u_0
+?u_0 veneratedIn Judaism .?u_1 veneratedIn Islam
+?u_1 veneratedIn Islam .?u_1 veneratedIn ?u_0
+?u_1 veneratedIn Judaism
+?u_0 veneratedIn Islam
+?u_0 veneratedIn ?u_1
+?u_1 veneratedIn Judaism .?u_0 veneratedIn Islam
+?u_0 veneratedIn Islam .?u_0 veneratedIn ?u_1
+?u_0 veneratedIn Judaism
+?u_1 veneratedIn Islam
+?u_0 veneratedIn ?u_1
+?u_0 veneratedIn Judaism .?u_1 veneratedIn Islam
+?u_0 veneratedIn Judaism .?u_0 veneratedIn ?u_1

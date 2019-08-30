@@ -1,0 +1,31 @@
+veneratedIn ?u_0 #ent
+veneratedIn ?u_0 #ent
+veneratedIn ?u_1 ?u_0
+veneratedIn veneratedIn ?u_0 Islam Judaism
+veneratedIn ?u_0 Judaism
+veneratedIn ?u_0 Islam
+veneratedIn ?u_0 ?u_1
+veneratedIn veneratedIn ?u_0 Islam Judaism
+veneratedIn veneratedIn ?u_0 ?u_1 Judaism
+veneratedIn veneratedIn ?u_0 ?u_1 Islam
+veneratedIn veneratedIn veneratedIn ?u_0 ?u_1 Islam Judaism
+veneratedIn ?u_1 Judaism
+veneratedIn ?u_0 Islam
+veneratedIn ?u_1 ?u_0
+veneratedIn ?u_1 Judaism
+veneratedIn veneratedIn ?u_1 ?u_0 Judaism
+veneratedIn ?u_0 Judaism
+veneratedIn ?u_1 Islam
+veneratedIn ?u_1 ?u_0
+veneratedIn ?u_0 Judaism
+veneratedIn veneratedIn ?u_1 ?u_0 Islam
+veneratedIn ?u_1 Judaism
+veneratedIn ?u_0 Islam
+veneratedIn ?u_0 ?u_1
+veneratedIn ?u_1 Judaism
+veneratedIn veneratedIn ?u_0 ?u_1 Islam
+veneratedIn ?u_0 Judaism
+veneratedIn ?u_1 Islam
+veneratedIn ?u_0 ?u_1
+veneratedIn ?u_0 Judaism
+veneratedIn veneratedIn ?u_0 ?u_1 Judaism
