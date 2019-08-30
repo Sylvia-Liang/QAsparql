@@ -70,7 +70,7 @@ more-itertools==7.0.0
 murmurhash==1.0.2
 networkx==2.3
 nibabel==2.4.1
-nltk==3.4.3
+nltk==3.4.5
 numpy==1.16.4
 olefile==0.46
 onnx==1.5.0
@@ -104,7 +104,7 @@ pytest==4.6.2
 python-dateutil==2.8.0
 pytz==2019.1
 PyWavelets==1.0.3
-PyYAML==3.12
+PyYAML==4.2b1
 rdflib==4.2.2
 requests==2.22.0
 ruamel-yaml==0.15.35
