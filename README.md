@@ -1,6 +1,12 @@
 # QAsparql
 Question-Answering system for Knowledge Graph (DBpedia)
 
+Abstract:
+
+The emergence of Linked Data in the form of knowledge graphs in Resource Description Framework (RDF) data models has been among the first developments since Semantic Web appeared in 2001. These knowledge graphs are typically enormous and are not easily accessible to end users because they require specialized knowledge in query languages (such as SPARQL) as well as deep understanding of content structure in the underlying knowledge graph. This led to the development of Question-Answering (QA) systems based on RDF data to allow end users to access the knowledge graphs and benefit from the information stored in them. While QA systems have progressed rapidly in recent years, there is still room for improvement. 
+To make the knowledge graphs more accessible to end users, we propose a new QA system for translating natural language questions into SPARQL queries. The key idea is to use neural network models to automatically learn and translate a natural language question into a SPARQL query. Our QA system first predicts the types of questions and then constructs the SPARQL query by extracting, ranking and selecting triple patterns from the original question. The final SPARQL query is constructed by combining the selected triple pattern with the predicted question type. The performance of our proposed QA system is empirically evaluated using the two renowned benchmarks - the 7th Question Answering over Linked Data Challenge (QALD-7) and the Large-Scale Complex Question Answering Dataset (LC- QuAD). Experimental results show that our QA system out- performs the state-of-art systems by 15% on the QALD-7 dataset and by 48% on the LC-QuAD dataset, respectively. The advantage of our approach is that it is generically applicable since it does not require any domain-specific knowledge. 
+
+
 Preprocess:
 1. bash earning/treelstm/download.sh -- download the pre-trained word embedding models FastText and Glove
 
