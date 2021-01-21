@@ -111,6 +111,7 @@ class QueryBuilder:
 
                     entity_use = entity_items - LinkedItem.list_contains_uris(entity_items, entities)
                     relation_use = relation_items - LinkedItem.list_contains_uris(relation_items, used_relations)
+                    edge_use = edges - {edge}
 
                     new_paths = self.__find_paths(graph,
                                                   entity_use,
