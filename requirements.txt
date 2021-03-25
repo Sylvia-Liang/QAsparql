@@ -104,7 +104,7 @@ pytest==4.6.2
 python-dateutil==2.8.0
 pytz==2019.1
 PyWavelets==1.0.3
-PyYAML==4.2b1
+PyYAML==5.4
 rdflib==4.2.2
 requests==2.22.0
 ruamel-yaml==0.15.35
