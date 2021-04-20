@@ -86,7 +86,7 @@ preshed==2.0.1
 prompt-toolkit==1.0.15
 protobuf==3.7.1
 ptyprocess==0.5.2
-py==1.8.0
+py==1.10.0
 pybind11==2.3.0
 pybloom-live==3.0.0
 pybloomfiltermmap3==0.4.15
