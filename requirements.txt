@@ -136,7 +136,7 @@ torchvision==0.2.1
 tornado==6.0.2
 tqdm==4.32.1
 traitlets==4.3.2
-ujson==1.35
+ujson==5.4.0
 urllib3==1.25.3
 visitor==0.1.3
 wasabi==0.2.2
