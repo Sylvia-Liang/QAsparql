@@ -43,7 +43,7 @@ gensim==3.7.3
 gevent==1.4.0
 greenlet==0.4.15
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 imageio==2.5.0
 importlib-metadata==0.17
